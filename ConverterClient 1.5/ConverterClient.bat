@@ -1,1 +1,0 @@
-java -jar DDS2-ConverterClient-1.5.jar -guiMode
